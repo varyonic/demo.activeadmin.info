@@ -52,7 +52,7 @@ ActiveAdmin.setup do |config|
   # Admin notes are enabled by default, but can be disabled
   # by uncommenting this line:
   #
-  config.admin_notes = true
+  # config.admin_notes = true
 
 
   # == Controller Filters

@@ -55,6 +55,7 @@ Devise.setup do |config|
 
   # Setup a pepper to generate the encrypted password.
   # config.pepper = "9718bf2f4e319216e2cf7915a6ba2ceae7de623250bb9654c7e4e607dd725447383c945da00588f66e4235340772e7735ef14b58f258c63c33c81c39a7fa05b2"
+  config.secret_key = '692dc2517ac914636d85c75459773d18f62c527dbec93c9de1228136a8623de99eca0aa94c0f7ccfe760867b69ac0d8b045a078788f4766d1a2a04dda482ca8a'
 
   # ==> Configuration for :confirmable
   # The time you want to give your user to confirm his account. During this time
@@ -80,7 +81,7 @@ Devise.setup do |config|
 
   # If true, uses the password salt as remember token. This should be turned
   # to false if you are not using database authenticatable.
-  config.use_salt_as_remember_token = true
+  # config.use_salt_as_remember_token = true
 
   # ==> Configuration for :validatable
   # Range for password length. Default is 6..20.
