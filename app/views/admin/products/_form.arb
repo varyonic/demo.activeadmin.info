@@ -1,0 +1,16 @@
+active_admin_form_for resource do |f|
+  inputs do
+    li "Created at #{f.object.created_at}" unless f.object.new_record?
+    f.input :title
+    f.input :author
+    f.input :price
+  end
+  panel 'Notes' do
+    "Please fill in the details of the product below"
+  end
+  inputs do
+    f.input :description
+  end
+  para "Press cancel to return to the list without saving."
+  actions
+end

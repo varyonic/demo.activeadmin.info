@@ -38,4 +38,6 @@ ActiveAdmin.register Product do
   sidebar "Active Admin Demo" do
     render('/admin/sidebar_links', :model => 'products')
   end
+
+  form partial: 'form'
 end
