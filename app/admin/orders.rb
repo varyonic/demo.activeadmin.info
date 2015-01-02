@@ -1,5 +1,5 @@
 ActiveAdmin.register Order do
-  actions :index, :show
+  actions :index, :show, :edit
 
   filter :total_price
   filter :checked_out_at
@@ -29,6 +29,14 @@ ActiveAdmin.register Order do
     end
 
     active_admin_comments
+  end
+
+  form do |f|
+    f.semantic_errors
+    f.inputs do
+      link_to_add_association 'Add items...', f, :line_items
+    end
+    f.actions
   end
 
   sidebar :customer_information, :only => :show do

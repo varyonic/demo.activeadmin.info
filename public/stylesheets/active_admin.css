@@ -350,9 +350,6 @@ body.active_admin form {
         border-bottom-color: #cdcdcd;
         border-left-color: #d4d4d4;
         -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-        -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-        -ms-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-        -o-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
         box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
         font-size: 1.0em;
         font-weight: bold;
@@ -505,9 +502,6 @@ body.active_admin form {
     -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#838a90', endColorstr='#414549');
     text-shadow: black 0 1px 0;
     -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
-    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
-    -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
-    -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
     border: solid 1px #484e53;
     border-color: #484e53;
@@ -528,9 +522,6 @@ body.active_admin form {
       -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8b9297', endColorstr='#484d51'); }
     body.active_admin form input[type=submit]:not(.disabled):active {
       -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px white;
-      -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px white;
-      -ms-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px white;
-      -o-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px white;
       box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px white;
       background: #71797f;
       background: -webkit-gradient(linear, left top, left bottom, from(#71797f), to(#35383b));
@@ -563,9 +554,6 @@ body.active_admin form {
       filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#e7e7e7');
       -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#e7e7e7');
       -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-      -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-      -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-      -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
       box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
       border: solid 1px #c7c7c7;
       border-color: #c7c7c7;
@@ -586,9 +574,6 @@ body.active_admin form {
         -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#f1f1f1'); }
       body.active_admin form fieldset.buttons li.cancel a:not(.disabled):active, body.active_admin form fieldset.actions li.cancel a:not(.disabled):active {
         -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-        -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-        -ms-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-        -o-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
         box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
         border-color: #b9b9b9;
         border-top-color: #c2c2c2;
@@ -662,9 +647,6 @@ body.active_admin form.filter_form a.clear_filters_btn {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#e7e7e7');
   -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#e7e7e7');
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-  -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-  -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
   border: solid 1px #c7c7c7;
   border-color: #c7c7c7;
@@ -685,9 +667,6 @@ body.active_admin form.filter_form a.clear_filters_btn {
     -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#f1f1f1'); }
   body.active_admin form.filter_form a.clear_filters_btn:not(.disabled):active {
     -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-    -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-    -ms-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-    -o-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
     border-color: #b9b9b9;
     border-top-color: #c2c2c2;
@@ -881,9 +860,6 @@ body.active_admin .popover {
   background-color: white;
   padding: 2px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.4) 0 1px 3px, #838a90 0px 1px 0px 0px inset;
-  -moz-box-shadow: rgba(0, 0, 0, 0.4) 0 1px 3px, #838a90 0px 1px 0px 0px inset;
-  -ms-box-shadow: rgba(0, 0, 0, 0.4) 0 1px 3px, #838a90 0px 1px 0px 0px inset;
-  -o-box-shadow: rgba(0, 0, 0, 0.4) 0 1px 3px, #838a90 0px 1px 0px 0px inset;
   box-shadow: rgba(0, 0, 0, 0.4) 0 1px 3px, #838a90 0px 1px 0px 0px inset;
   background-color: #5e6469;
   background: #686e74;
@@ -931,9 +907,6 @@ body.active_admin .popover {
     background-color: #FFF;
     border: solid 1px #464a4e;
     -webkit-box-shadow: #6a7176 0px 1px 0px 0px;
-    -moz-box-shadow: #6a7176 0px 1px 0px 0px;
-    -ms-box-shadow: #6a7176 0px 1px 0px 0px;
-    -o-box-shadow: #6a7176 0px 1px 0px 0px;
     box-shadow: #6a7176 0px 1px 0px 0px;
     border-radius: 3px;
     margin: 0;
@@ -947,15 +920,11 @@ body.active_admin .popover ul.popover_contents {
     border-bottom: solid 1px #ebebeb;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
-    -ms-box-sizing: border-box;
-    -o-box-sizing: border-box;
     box-sizing: border-box; }
     body.active_admin .popover ul.popover_contents li a {
       display: block;
       -webkit-box-sizing: padding-box;
       -moz-box-sizing: padding-box;
-      -ms-box-sizing: padding-box;
-      -o-box-sizing: padding-box;
       box-sizing: padding-box;
       font-size: 0.95em;
       font-weight: bold;
@@ -1007,9 +976,6 @@ body.active_admin table.index_table {
     border-bottom-color: #cdcdcd;
     border-left-color: #d4d4d4;
     -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-    -ms-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-    -o-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
     font-size: 1.0em;
     font-weight: bold;
@@ -1100,18 +1066,19 @@ body.active_admin .attributes_table table td .empty {
   letter-spacing: 0.2em; }
 body.active_admin .sidebar_section .attributes_table th {
   width: 50px; }
-body.active_admin #collection_selection_toggle_panel:after {
-  visibility: hidden;
-  display: block;
-  content: "";
-  clear: both;
-  height: 0; }
-body.active_admin #collection_selection_toggle_panel > .resource_selection_toggle_cell {
-  float: left; }
-body.active_admin #collection_selection_toggle_panel #collection_selection_toggle_explaination {
-  float: left;
-  margin-left: 5px;
-  font-style: italic; }
+body.active_admin #collection_selection_toggle_panel {
+  zoom: 1; }
+  body.active_admin #collection_selection_toggle_panel:before, body.active_admin #collection_selection_toggle_panel:after {
+    content: "";
+    display: table; }
+  body.active_admin #collection_selection_toggle_panel:after {
+    clear: both; }
+  body.active_admin #collection_selection_toggle_panel > .resource_selection_toggle_cell {
+    float: left; }
+  body.active_admin #collection_selection_toggle_panel #collection_selection_toggle_explaination {
+    float: left;
+    margin-left: 5px;
+    font-style: italic; }
 body.active_admin .blank_slate_container {
   clear: both;
   text-align: center; }
@@ -1172,9 +1139,6 @@ body.active_admin .dropdown_menu {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#e7e7e7');
     -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#e7e7e7');
     -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-    -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-    -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
     border: solid 1px #c7c7c7;
     border-color: #c7c7c7;
@@ -1198,9 +1162,6 @@ body.active_admin .dropdown_menu {
       -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#f1f1f1'); }
     body.active_admin .dropdown_menu .dropdown_menu_button:not(.disabled):active {
       -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-      -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-      -ms-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-      -o-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
       box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
       border-color: #b9b9b9;
       border-top-color: #c2c2c2;
@@ -1269,9 +1230,6 @@ body.active_admin .dropdown_menu {
     background-color: white;
     padding: 2px;
     -webkit-box-shadow: rgba(0, 0, 0, 0.4) 0 1px 3px, #838a90 0px 1px 0px 0px inset;
-    -moz-box-shadow: rgba(0, 0, 0, 0.4) 0 1px 3px, #838a90 0px 1px 0px 0px inset;
-    -ms-box-shadow: rgba(0, 0, 0, 0.4) 0 1px 3px, #838a90 0px 1px 0px 0px inset;
-    -o-box-shadow: rgba(0, 0, 0, 0.4) 0 1px 3px, #838a90 0px 1px 0px 0px inset;
     box-shadow: rgba(0, 0, 0, 0.4) 0 1px 3px, #838a90 0px 1px 0px 0px inset;
     background-color: #5e6469;
     background: #686e74;
@@ -1288,9 +1246,6 @@ body.active_admin .dropdown_menu {
       background-color: #FFF;
       border: solid 1px #464a4e;
       -webkit-box-shadow: #6a7176 0px 1px 0px 0px;
-      -moz-box-shadow: #6a7176 0px 1px 0px 0px;
-      -ms-box-shadow: #6a7176 0px 1px 0px 0px;
-      -o-box-shadow: #6a7176 0px 1px 0px 0px;
       box-shadow: #6a7176 0px 1px 0px 0px;
       border-radius: 3px;
       margin: 0;
@@ -1303,15 +1258,11 @@ body.active_admin .dropdown_menu {
         border-bottom: solid 1px #ebebeb;
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
-        -ms-box-sizing: border-box;
-        -o-box-sizing: border-box;
         box-sizing: border-box; }
         body.active_admin .dropdown_menu .dropdown_menu_list_wrapper .dropdown_menu_list li a {
           display: block;
           -webkit-box-sizing: padding-box;
           -moz-box-sizing: padding-box;
-          -ms-box-sizing: padding-box;
-          -o-box-sizing: padding-box;
           box-sizing: padding-box;
           font-size: 0.95em;
           font-weight: bold;
@@ -1375,9 +1326,6 @@ body.active_admin a.button, body.active_admin a:link.button, body.active_admin a
   -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#838a90', endColorstr='#414549');
   text-shadow: black 0 1px 0;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
-  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
-  -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
-  -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
   border: solid 1px #484e53;
   border-color: #484e53;
@@ -1397,9 +1345,6 @@ body.active_admin a.button, body.active_admin a:link.button, body.active_admin a
     -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8b9297', endColorstr='#484d51'); }
   body.active_admin a.button:not(.disabled):active, body.active_admin a:link.button:not(.disabled):active, body.active_admin a:visited.button:not(.disabled):active, body.active_admin input[type=submit]:not(.disabled):active {
     -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px white;
-    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px white;
-    -ms-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px white;
-    -o-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px white;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px white;
     background: #71797f;
     background: -webkit-gradient(linear, left top, left bottom, from(#71797f), to(#35383b));
@@ -1446,9 +1391,6 @@ body.active_admin .pagination {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#e7e7e7');
     -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#e7e7e7');
     -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-    -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-    -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
     border: solid 1px #c7c7c7;
     border-color: #c7c7c7;
@@ -1469,9 +1411,6 @@ body.active_admin .pagination {
       -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#f1f1f1'); }
     body.active_admin .pagination a:not(.disabled):active {
       -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-      -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-      -ms-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-      -o-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
       box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
       border-color: #b9b9b9;
       border-top-color: #c2c2c2;
@@ -1503,9 +1442,6 @@ body.active_admin .pagination {
     -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#838a90', endColorstr='#414549');
     text-shadow: black 0 1px 0;
     -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
-    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
-    -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
-    -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0px rgba(255, 255, 255, 0.2) inset;
     border: solid 1px #484e53;
     border-color: #484e53;
@@ -1525,9 +1461,6 @@ body.active_admin .pagination {
       -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8b9297', endColorstr='#484d51'); }
     body.active_admin .pagination span.page.current:not(.disabled):active {
       -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px white;
-      -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px white;
-      -ms-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px white;
-      -o-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px white;
       box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4) inset, 0 1px 0 0px white;
       background: #71797f;
       background: -webkit-gradient(linear, left top, left bottom, from(#71797f), to(#35383b));
@@ -1571,9 +1504,6 @@ body.active_admin .section, body.active_admin .panel {
     border-bottom-color: #cdcdcd;
     border-left-color: #d4d4d4;
     -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-    -ms-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-    -o-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
     font-size: 1.0em;
     font-weight: bold;
@@ -1617,9 +1547,6 @@ body.active_admin .sidebar_section {
     border-bottom-color: #cdcdcd;
     border-left-color: #d4d4d4;
     -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-    -ms-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-    -o-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
     font-size: 1.0em;
     font-weight: bold;
@@ -1689,9 +1616,6 @@ body.active_admin a.table_tools_button, body.active_admin .table_tools .dropdown
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#e7e7e7');
   -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#e7e7e7');
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-  -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-  -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
   border: solid 1px #c7c7c7;
   border-color: #c7c7c7;
@@ -1727,9 +1651,6 @@ body.active_admin a.table_tools_button, body.active_admin .table_tools .dropdown
     -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#f1f1f1'); }
   body.active_admin a.table_tools_button:not(.disabled):active, body.active_admin .table_tools .dropdown_menu_button:not(.disabled):active {
     -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-    -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-    -ms-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-    -o-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
     border-color: #b9b9b9;
     border-top-color: #c2c2c2;
@@ -1754,9 +1675,6 @@ body.active_admin a.table_tools_button, body.active_admin .table_tools .dropdown
     border-bottom-color: #c3c3c3;
     border-left-color: #c8c8c8;
     -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.17) inset;
-    -moz-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.17) inset;
-    -ms-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.17) inset;
-    -o-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.17) inset;
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.17) inset;
     background: white;
     background: -webkit-gradient(linear, left top, left bottom, from(white), to(#e8e8e8));
@@ -1791,9 +1709,6 @@ body.active_admin .table_tools_segmented_control {
       filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#fdfdfd');
       -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0f0f0', endColorstr='#fdfdfd');
       -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1) inset;
-      -moz-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1) inset;
-      -ms-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1) inset;
-      -o-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1) inset;
       box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1) inset;
       cursor: default; }
       body.active_admin .table_tools_segmented_control li.selected a:hover {
@@ -1829,9 +1744,6 @@ body.active_admin table.dashboard {
       border-bottom-color: #cdcdcd;
       border-left-color: #d4d4d4;
       -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-      -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-      -ms-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-      -o-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
       box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
       font-size: 1.0em;
       font-weight: bold;
@@ -1877,9 +1789,6 @@ body.active_admin.logged_out {
     border-bottom-color: #cdcdcd;
     border-left-color: #d4d4d4;
     -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-    -ms-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-    -o-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
     font-size: 1.0em;
     font-weight: bold;
@@ -1895,9 +1804,6 @@ body.active_admin.logged_out {
     border-bottom: 1px solid #44484b;
     text-shadow: black 0 1px 0;
     -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
-    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
-    -ms-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
-    -o-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
     border: none;
     color: #fff;
@@ -1971,9 +1877,6 @@ body.active_admin #title_bar {
   border-bottom-color: #cdcdcd;
   border-left-color: #d4d4d4;
   -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-  -ms-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
-  -o-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 0 1px white inset;
   font-size: 1.0em;
   font-weight: bold;
@@ -1981,15 +1884,11 @@ body.active_admin #title_bar {
   margin-bottom: 0.5em;
   color: #5e6469;
   padding: 5px 10px 3px 10px;
+  zoom: 1;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  -ms-box-sizing: border-box;
-  -o-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.37);
-  -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.37);
-  -ms-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.37);
-  -o-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.37);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.37);
   display: table;
   border-bottom-color: #EEE;
@@ -2007,12 +1906,11 @@ body.active_admin #title_bar {
   body.active_admin #title_bar span.icon svg {
     width: 1em;
     height: 1em; }
-  body.active_admin #title_bar:after {
-    visibility: hidden;
-    display: block;
+  body.active_admin #title_bar:before, body.active_admin #title_bar:after {
     content: "";
-    clear: both;
-    height: 0; }
+    display: table; }
+  body.active_admin #title_bar:after {
+    clear: both; }
   body.active_admin #title_bar #titlebar_left, body.active_admin #title_bar #titlebar_right {
     height: 50px;
     vertical-align: middle;
@@ -2043,9 +1941,6 @@ body.active_admin #title_bar {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#e7e7e7');
     -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#e7e7e7');
     -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-    -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
-    -o-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 0 0 rgba(255, 255, 255, 0.8) inset;
     border: solid 1px #c7c7c7;
     border-color: #c7c7c7;
@@ -2068,9 +1963,6 @@ body.active_admin #title_bar {
       -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#f1f1f1'); }
     body.active_admin #title_bar .action_items a:not(.disabled):active {
       -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-      -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-      -ms-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
-      -o-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
       box-shadow: 0 1px 2px rgba(0, 0, 0, 0.22) inset, 0 1px 0 0px #eeeeee;
       border-color: #b9b9b9;
       border-top-color: #c2c2c2;

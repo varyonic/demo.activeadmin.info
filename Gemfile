@@ -1,11 +1,13 @@
 source 'http://rubygems.org'
 
-gem 'rails', '~> 3.2'
+gem 'rails', '~> 3.2' # path: '../rails'
 gem 'sqlite3-ruby', :require => 'sqlite3'
 gem 'nifty-generators'
-gem "activeadmin", path: '../activeadmin'
+gem "activeadmin", path: '../activeadmin' # , ref: '70ad27c7d8112e866c291437825eadd03313bc9d' # 70ad27c predates PR-3486
+gem 'cocoon', path: '../cocoon'
 gem 'devise', '~> 3.2'
 gem "faker"
+gem 'formtastic', path: '../formtastic'
 gem 'newrelic_rpm', '3.1.1'
 gem 'hoptoad_notifier', '2.4.11'
 gem 'rack-throttle'

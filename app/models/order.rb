@@ -1,5 +1,6 @@
 class Order < ActiveRecord::Base
   has_many :line_items, :dependent => :destroy
+  accepts_nested_attributes_for :line_items
   belongs_to :user
 
   scope :in_progress, where("orders.checked_out_at IS NULL")
